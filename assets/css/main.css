@@ -2453,6 +2453,7 @@
 		.work-item h3 {
 			font-size: 1em;
 			margin: 0 0 0.5em 0;
+                        font-weight: 600;
 		}
 
 		.work-item p {
@@ -3126,8 +3127,8 @@
 			}
 
 	}
-ul.personal { padding-left:20px; list-style:none; }
-li.personl { margin-bottom:10px; }
+ul.personal{ padding-left:20px; list-style:none; }
+.personal li { margin-bottom:0.75em; line-height:1.4em}
 li.dad:before {    
     font-family: 'FontAwesome';
     content: '\f19c'; /* university*/
